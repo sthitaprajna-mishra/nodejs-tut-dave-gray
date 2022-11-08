@@ -13,3 +13,8 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 - readFile, writeFile, appendFile, rename, unlink (delete)
 - Handle uncaught exceptions
 - Streams and pipe
+
+### [Chapter 3: NPM Modules [03TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/03TUT)
+
+- npm packages
+- date-fns, uuid, nodemon
