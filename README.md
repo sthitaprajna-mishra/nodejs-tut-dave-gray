@@ -18,3 +18,8 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 
 - npm packages
 - date-fns, uuid, nodemon
+
+### [Chapter 4: Event Emitter [04TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/04TUT)
+
+- CommonJS module - events, to emit and listen for events emitted
+- Create a logger using date-fns, uuid, and events
