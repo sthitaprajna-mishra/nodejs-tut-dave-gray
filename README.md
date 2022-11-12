@@ -23,3 +23,8 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 
 - CommonJS module - events, to emit and listen for events emitted
 - Create a logger using date-fns, uuid, and events
+
+### [Chapter 5: Build a Web Server [05TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/05TUT)
+
+- CommonJS module - http
+- How to set up a basic server using raw NodeJS
