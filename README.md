@@ -28,3 +28,10 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 
 - CommonJS module - http
 - How to set up a basic server using raw NodeJS
+
+### [Chapter 6: Intro to Express JS framework [06TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/06TUT)
+
+- Intro to Express JS framework
+- Routing with the help of regex
+- Serve html files and raw text
+- Chain route handlers
