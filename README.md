@@ -35,3 +35,13 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 - Routing with the help of regex
 - Serve html files and raw text
 - Chain route handlers
+
+### [Chapter 7: Middleware [07TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/07TUT)
+
+- 3 types of middleware - built-in, custom, 3rd party
+- Built-in middlware examples - handle form data, handle json, serve static files
+- Custom - user defined routes
+- 3rd party - CORS
+- CORS (Cross Origin Resource Sharing)
+- How to add IPs in whitelist to allow access using CORS
+- Integrating logger for handling requests and logging errors with server
