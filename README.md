@@ -45,3 +45,10 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 - CORS (Cross Origin Resource Sharing)
 - How to add IPs in whitelist to allow access using CORS
 - Integrating logger for handling requests and logging errors with server
+
+### [Chapter 8: Routing [08TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/08TUT)
+
+- Created file structure for routes
+- Used express.Router() for routing
+- Created basic GET,POST,PUT,DELETE routes
+- Used ThunderClient as an alternative to Postman
