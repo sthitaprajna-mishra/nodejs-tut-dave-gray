@@ -52,3 +52,9 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 - Used express.Router() for routing
 - Created basic GET,POST,PUT,DELETE routes
 - Used ThunderClient as an alternative to Postman
+
+### [Chapter 9: Routing [09TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/09TUT)
+
+- Cleaned up code a bit more
+- Created config file for CORS
+- Wrote logic inside controller for different API methods
