@@ -63,3 +63,8 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 
 - Intro to bcrypt - a hashing package to store passwords securely
 - Created endpoints for new route and added controllers
+
+### [Chapter 11: JWT Auth [11TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/11TUT)
+
+- JWT Auth
+- Access token and Refresh token
