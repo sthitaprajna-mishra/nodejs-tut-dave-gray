@@ -58,3 +58,8 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 - Cleaned up code a bit more
 - Created config file for CORS
 - Wrote logic inside controller for different API methods
+
+### [Chapter 10: Authentication [10TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/10TUT)
+
+- Intro to bcrypt - a hashing package to store passwords securely
+- Created endpoints for new route and added controllers
