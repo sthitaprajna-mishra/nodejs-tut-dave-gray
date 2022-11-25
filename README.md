@@ -68,3 +68,14 @@ This repo contains the code written while following along [Dave Gray's Nodejs](h
 
 - JWT Auth
 - Access token and Refresh token
+
+### [Chapter 12: User Roles | Authorization [12TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/12TUT)
+
+- How to assign different roles to users
+- How to implement authorization for various endpoints
+
+### [Chapter 13: Intro to MongoDB & Mongoose [13TUT]](https://github.com/sthitaprajna-mishra/nodejs-tut-dave-gray/tree/master/13TUT)
+
+- Intro to mongoose package
+- Created database and collections on MongoDB
+- Connected application to db

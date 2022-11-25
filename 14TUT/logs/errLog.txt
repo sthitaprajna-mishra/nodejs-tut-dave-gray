@@ -1,0 +1,2 @@
+20221113	12:52:51	a287dd17-012a-40b1-ba98-1d92638d209b	Error: Not allowed by CORS
+20221115	19:39:03	1fb7146a-d950-4fe0-aedc-7a796ab29cc1	ReferenceError: praseInt is not defined
